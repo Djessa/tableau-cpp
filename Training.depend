@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1607414682 source:/home/djessa/Projects/cpp/Training/main.cpp
+	<iostream>
+	<vector>
+	"Tableau.h"
+
+1607414763 source:/home/djessa/Projects/cpp/Training/Tableau.cpp
+	<iostream>
+	<vector>
+
+1607414589 /home/djessa/Projects/cpp/Training/Tableau.h
+
+1607414682 source:/home/djessa/Projects/back/Training/main.cpp
+	<iostream>
+	<vector>
+	"Tableau.h"
+
+1607414589 /home/djessa/Projects/back/Training/Tableau.h
+
+1607414763 source:/home/djessa/Projects/back/Training/Tableau.cpp
+	<iostream>
+	<vector>
+
+1607441794 source:/home/djessa/Back/Training/main.cpp
+	<iostream>
+	<vector>
+	"Tableau.h"
+
+1607441792 /home/djessa/Back/Training/Tableau.h
+
+1607441797 source:/home/djessa/Back/Training/Tableau.cpp
+	<iostream>
+	<vector>
+
